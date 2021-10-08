@@ -1,0 +1,5 @@
+print("hello friend...")
+#print(1+2)
+#print(7*7)
+#print()
+#print('the end','is it?',677)
